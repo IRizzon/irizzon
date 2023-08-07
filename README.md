@@ -1,8 +1,6 @@
 Olá, sou novo aqui! Me chamo Ítalo Rizzon 👋
 
 - 🔭 Cursando Tecnico em Desinvolvimento de Sistemas
-- 🌱 Atualmente aperfeiçoando minhas habilidades com HTML5, JS e Python
-- 🌍 A procura de experiência profissional na área
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
